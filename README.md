@@ -13,3 +13,5 @@
 - 💬 Ask me about: *Anything!*
 - 📫 How to reach me: *Visit my site https://binariicodice.com and press contact me and send me an e-mail.*
 - ⚡ Fun fact: *I have a bad impulse control, so if you give me a plate of chocolate will it be gone in 5 minutes like magic.*
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binariicodice&layout=compact)](https://github.com/binariicodice/github-readme-stats)
