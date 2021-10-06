@@ -1,14 +1,10 @@
 
 
 ![alt text](https://github.com/binariicodice/binariicodice/blob/main/BB-logo-uten-bakgrunn.png?raw=true)
-![alt text](https://github.com/binariicodice/build-a-technical-documentation-page/blob/main/1.png?raw=true)
 
-### Hi there 👋
+<h1>Hi there 👋</h1>
+<b>My name is Bjørnar and I'm a IT student</b>
 
-<!--
-**binariicodice/binariicodice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
