@@ -1,6 +1,6 @@
 
 
-![Header](https://raw.githubusercontent.com/MartinHeinz/binariicodice/binariicodice/BB-logo-uten-bakgrunn.png "Header")
+![Header](https://raw.githubusercontent.com/binariicodice/binariicodice/BB-logo-uten-bakgrunn.png "Header")
 
 ### Hi there 👋
 
