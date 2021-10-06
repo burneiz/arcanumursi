@@ -1,6 +1,7 @@
 
 
-![alt text](https://github.com/binariicodice/binariicodice/BB-logo-uten-bakgrunn.png?raw=true)
+![alt text](https://github.com/binariicodice/binariicodice/blob/main/BB-logo-uten-bakgrunn.png?raw=true)
+![alt text](https://github.com/binariicodice/build-a-technical-documentation-page/blob/main/1.png?raw=true)
 
 ### Hi there 👋
 
