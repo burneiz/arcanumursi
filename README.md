@@ -6,7 +6,6 @@
 <h1>Hi there 👋</h1>
 <b>My name is Bjørnar and I'm currently a IT student</b>
 
-
 - 🔭 I’m currently working on: *Studying hard!*
 - 🌱 I’m currently learning: *Java, Ethics, Databases (MySQL), Linux, PHP, JavaScript.*
 - 👯 I’m looking to collaborate on: *Anything. Hackaton would be awasome!*
