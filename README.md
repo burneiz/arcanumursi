@@ -7,7 +7,7 @@
 <b>My name is Bjørnar and I'm currently a IT student</b>
 
 - 🔭 I’m currently working on: <br> 
-     - *Studying hard & developing a Python calculator for my girlfriend to use in her company for KPI calculations.*
+     - *Studying hard & developing a Python calculator for my wife to use in her company for KPI calculations.*
 - 🌱 I’m currently learning: <br> 
      - *Java, Ethics, Databases (MySQL/PostgreSQL), Linux (mostly terminal and coding in terminal/ shell scripting), PHP, JavaScript, HTML, CSS.*
 - 👯 I’m looking to collaborate on: <br>
