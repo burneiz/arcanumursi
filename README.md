@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on: <br> 
      - *Studying hard & developing a Python calculator for my girlfriend to use in her company for KPI calculations.*
 - 🌱 I’m currently learning: <br> 
-     - *Java, Ethics, Databases (MySQL/PostgreSQL), Linux (mostly terminal and coding in terminal/scripting), PHP, JavaScript, HTML, CSS.*
+     - *Java, Ethics, Databases (MySQL/PostgreSQL), Linux (mostly terminal and coding in terminal/ shell scripting), PHP, JavaScript, HTML, CSS.*
 - 👯 I’m looking to collaborate on: <br>
      - *Anything. Hackaton would be awasome!*
 - 🤔 I’m looking for help with: <br>
