@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on: <br>
      - *Hackatons, CFT.*
 - 🤔 I’m looking for help with: <br>
-     - *Advice for a student entering a new field of IT profession.*
+     - *CFT challenges.*
 - 💬 Ask me about: <br>
      - *Anything!*
 
