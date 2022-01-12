@@ -1,4 +1,4 @@
-<img src="https://github.com/binariicodice/bjurneiz/blob/main/BB-logo-uten-bakgrunn.png" 
+<img src="https://github.com/bjurneiz/bjurneiz/blob/main/BB-logo-uten-bakgrunn.png" 
      width="400"
      height="400"
      align="right">
