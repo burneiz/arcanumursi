@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning: <br> 
      - *Java, Ethics, Databases (MySQL/PostgreSQL), Linux (mostly terminal and coding in terminal/ shell scripting), PHP, JavaScript, HTML, CSS.*
 - 👯 I’m looking to collaborate on: <br>
-     - *Hackatons, CFT*
+     - *Hackatons, CFT.*
 - 🤔 I’m looking for help with: <br>
      - *Advice for a student entering a new field of IT profession.*
 - 💬 Ask me about: <br>
