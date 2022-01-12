@@ -20,5 +20,5 @@
 --------------------------------------------------
 
 <a href="https://github.com/bjurneiz/github-readme-stats">
-     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binariicodice&layout=compact" />
+     <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjurneiz&layout=compact" />
 </a>                              
