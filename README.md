@@ -16,8 +16,6 @@
      - *Advice for a student entering a new field of profession.*
 - 💬 Ask me about: <br>
      - *Anything!*
-- 📫 How to reach me: <br>
-     - *Visit my site https://binariicodice.com and press contact me and fill in the contact form. Due to web scraping of e-mails and spam as a result is this the only way to get n touch.*
 - ⚡ Fun fact: <br>
      - *I have a bad impulse control, so if you give me a plate of chocolate will it be gone in 5 minutes like magic.*
 
