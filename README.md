@@ -7,15 +7,12 @@
 <b>My name is Bjørnar and I'm currently a IT student</b>
 
 - 🔭 I’m currently working on: <br> 
-     - *Studying and own projects. Check out my repositories! C*
+     - *Application development project (university)*
+     - *Python Tkinter GUI project (hobby)*
+     - *JavaFX GUI project (hobby)*
+     - * Minor JavaScript projects*
 - 🌱 I’m currently learning: <br> 
-     - *Java, Ethics, Databases (MySQL/PostgreSQL), Linux (mostly terminal and coding in terminal/ shell scripting), PHP, JavaScript, HTML, CSS.*
-- 👯 I’m looking to collaborate on: <br>
-     - *Hackatons, CFT.*
-- 🤔 I’m looking for help with: <br>
-     - *CFT challenges.*
-- 💬 Ask me about: <br>
-     - *Anything!*
+     - *Python, Java, MySQL, PHP, JavaScript, HTML, CSS.*
 
 --------------------------------------------------
 
