@@ -10,9 +10,15 @@
      - *Application development project (university)*
      - *Python Tkinter GUI project (hobby)*
      - *JavaFX GUI project (hobby)*
-     - * Minor JavaScript projects*
+     - *Minor JavaScript projects*
 - 🌱 I’m currently learning: <br> 
-     - *Python, Java, MySQL, PHP, JavaScript, HTML, CSS.*
+     - *Python*
+     - *Java*
+     - *MySQL*
+     - *PHP*
+     - *JavaScript*
+     - *HTML*
+     - *CSS*
 
 --------------------------------------------------
 
