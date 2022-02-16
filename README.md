@@ -4,7 +4,7 @@
      align="right">
 
 <h1>Hi there 👋</h1>
-<b>My name is Bjørnar and I'm currently a IT student</b>
+<b>My name is Bjørnar and I'm a IT student</b>
 
 - 🔭 I’m currently working on: <br> 
      - *Application development project (university)*
